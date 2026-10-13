@@ -23,6 +23,11 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "backgroundColor": "#0E0E10"
+    "backgroundColor": "#0E0E10",
+    "extra": {
+      "eas": {
+        "projectId": "bec067ae-3911-443e-b058-59de9838c07e"
+      }
+    }
   }
 }
